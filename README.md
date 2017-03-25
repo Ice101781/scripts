@@ -8,6 +8,8 @@
 * <a href="#julia-sets">Julia Sets</a>
 * <a href="#riemann-zeta-function">Riemann Zeta Function</a>
 
+<br>
+
 <a name="julia-sets" href="http://en.wikipedia.org/wiki/Julia_set">Julia Sets</a>
 ---
 
