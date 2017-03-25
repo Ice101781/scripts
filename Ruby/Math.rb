@@ -10,7 +10,7 @@ def time
 
   elapsed = Time.now - start
 
-  puts "Time required: #{elapsed} seconds."
+  puts "Finished! It took #{elapsed} seconds to complete."
   puts
   puts
 

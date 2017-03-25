@@ -1,7 +1,7 @@
 require '../Math'
 
 
-#create a method to determine if f(c) diverges or not and add it to the 'Imaginary' class
+#create a method to determine if f(c) diverges or not
 
 class Imaginary
 
@@ -38,7 +38,7 @@ end
 
 puts
 puts
-puts "This program generates Julia sets of the form 'f(z) = z^2 + c'."
+puts "This program estimates Julia sets of the form 'f(z) = z^2 + c'."
 
 c = Imaginary.new(3, 0)
 
@@ -67,7 +67,7 @@ end
 
 puts
 puts
-puts "Thanks. Now computing the Julia set for c = #{c}..."
+puts "Thanks. Now computing for c = #{c}..."
 puts
 
 
@@ -85,9 +85,7 @@ time do
 
   mesh = []
 
-
   points = []
-
 
   i = 0
 
