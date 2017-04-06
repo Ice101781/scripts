@@ -57,4 +57,3 @@
 &nbsp; <i>The zeros of the Riemann Zeta function up to 100i. They appear in the graph as twenty-nine peaks beginning around 14i.<i>
 
 <img alt="" width="" src="https://drive.google.com/uc?export=download&id=0B3rehuqgDPeVUzhLVkl2dVp0eXM" />
-<br>
